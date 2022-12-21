@@ -15,7 +15,7 @@
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="GlobalTemplate" type="guid" value="c774d764-4a17-48dc-b470-32ace9ce447d"/>
                     <attribute id="Name" type="FixedString" value="Wyll"/>
-                    <attribute id="Passives" type="LSString" value="DeathSavingThrows;BladeOfFrontiers;MagicInitiate_Warlock"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows;AgonizingBlast;BladeOfFrontiers;DevilsSight;MagicInitiate_Warlock"/>
                     <attribute id="RaceUUID" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
                     <attribute id="SubClassUUID" type="guid" value="e668c6f1-5149-4b10-ab7e-3637ed444066"/>
                     <attribute id="UUID" type="guid" value="efc9d114-0296-4a30-b701-365fc07d44fb"/>

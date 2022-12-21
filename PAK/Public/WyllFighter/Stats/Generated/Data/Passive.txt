@@ -1,0 +1,5 @@
+new entry "BladeOfFrontiers"
+type "PassiveData"
+data "DisplayName" "Gustav_Passive_BladeOfFrontiers_DisplayName"
+data "Description" "Gustav_Passive_BladeOfFrontiers_Description"
+data "Boosts" "UnlockSpell(Projectile_EldritchBlast,,,,Charisma);UnlockSpell(Shout_ArmorOfAgathys,,,UntilRest);UnlockSpell(Target_Hex,,,UntilRest)"
