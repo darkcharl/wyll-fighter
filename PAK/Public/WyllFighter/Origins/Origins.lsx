@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="600"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="0"/>
+                    <attribute id="BackgroundUUID" type="guid" value="229775c9-3044-4779-a3bb-532c39238e03"/>
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Wyll"/>
+                    <attribute id="ClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/>
+                    <attribute id="Description" type="FixedString" value="Gustav_Origins_New_Stat_5_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Gustav_Origins_New_Stat_5_DisplayName"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="GlobalTemplate" type="guid" value="c774d764-4a17-48dc-b470-32ace9ce447d"/>
+                    <attribute id="Name" type="FixedString" value="Wyll"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows;BladeOfFrontiers;MagicInitiate_Warlock"/>
+                    <attribute id="RaceUUID" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
+                    <attribute id="SubClassUUID" type="guid" value="e668c6f1-5149-4b10-ab7e-3637ed444066"/>
+                    <attribute id="UUID" type="guid" value="efc9d114-0296-4a30-b701-365fc07d44fb"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="8f789c31-e514-49a2-847a-1d2895e10734"/>
+                    <children>
+                        <node id="AppearanceTags">
+                            <attribute id="Object" type="guid" value="facf82dc-a6e1-4720-a0bd-6efde960dc5f"/>
+                        </node>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="5f40def5-d3ec-4698-a367-01a339888956"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
